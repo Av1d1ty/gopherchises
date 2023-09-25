@@ -4,3 +4,6 @@
 [submodule "url-shortener"]
 	path = url-shortener
 	url = https://gitlab.com/go-study-projects/url-shortener
+[submodule "adventure"]
+	path = adventure
+	url = https://gitlab.com/go-study-projects/adventure
