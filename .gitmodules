@@ -9,4 +9,4 @@
 	url = https://gitlab.com/go-study-projects/adventure
 [submodule "link-parser"]
 	path = link-parser
-	url = ./link-parser/
+	url = https://gitlab.com/go-study-projects/link-parser/
