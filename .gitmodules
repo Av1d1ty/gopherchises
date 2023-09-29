@@ -10,3 +10,6 @@
 [submodule "link-parser"]
 	path = link-parser
 	url = https://gitlab.com/go-study-projects/link-parser/
+[submodule "sitemap"]
+	path = sitemap
+	url = https://gitlab.com/go-study-projects/sitemap
