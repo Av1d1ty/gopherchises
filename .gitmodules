@@ -13,3 +13,6 @@
 [submodule "sitemap"]
 	path = sitemap
 	url = https://gitlab.com/go-study-projects/sitemap
+[submodule "cli-task-manager"]
+	path = cli-task-manager
+	url = https://gitlab.com/go-study-projects/cli-task-manager
